@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 231 140" style="enable-background:new 0 0 231 140;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);}
+</style>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="55.4398" y1="105.2299" x2="225.0398" y2="-186.0801" gradientTransform="matrix(1 0 0 -1 0 142)">
+			<stop  offset="0" style="stop-color:#345D83"/>
+			<stop  offset="1" style="stop-color:#00DDFF"/>
+		</linearGradient>
+		<path class="st0" d="M117.3,140L79,13.8L41,0l37.6,140C78.7,140,117.3,140,117.3,140z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="140.8731" y1="89.1112" x2="229.5531" y2="-137.0188" gradientTransform="matrix(1 0 0 -1 0 142)">
+			<stop  offset="0" style="stop-color:#345D83"/>
+			<stop  offset="1" style="stop-color:#00DDFF"/>
+		</linearGradient>
+		<path class="st1" d="M156.2,42.8l38.2,97.2h-38.8L118.5,29L156.2,42.8L156.2,42.8z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="57.4689" y1="120.5904" x2="37.3089" y2="64.4504" gradientTransform="matrix(1 0 0 -1 0 142)">
+			<stop  offset="0" style="stop-color:#00CACF"/>
+			<stop  offset="1" style="stop-color:#28A6E4"/>
+		</linearGradient>
+		<path class="st2" d="M41,0L0,140h39L79,13.8L41,0z"/>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="132.8207" y1="93.5097" x2="112.7807" y2="37.6898" gradientTransform="matrix(1 0 0 -1 0 142)">
+			<stop  offset="0" style="stop-color:#00CACF"/>
+			<stop  offset="1" style="stop-color:#28A6E4"/>
+		</linearGradient>
+		<path class="st3" d="M117.3,140l38.9-97.2L118.5,29L78.6,140C78.6,140,117.3,140,117.3,140z"/>
+	</g>
+</g>
+</svg>
